@@ -18,7 +18,7 @@ Definition of terms related to quickMARC:
 -  **Holdings record.** A record that contains information such as location, call number, and volumes owned, that enables staff to locate and manage library holdings for materials in all formats. A Holdings record must be associated with an Instance record.
 -   **SRS.** Source Record Storage. A storage layer in FOLIO. If an instance or holdings has an underlying MARC record, then this record is stored in SRS.
 
-## Permissions
+## Capabilities
 
 The permissions listed below allow you to interact with quickMARC and determine what you can and cannot do within the module. You can assign permissions to users in the Users app. If none of these permissions are assigned to a user, they are unable to see the quickMARC module or any related information.
 
